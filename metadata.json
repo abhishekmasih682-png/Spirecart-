@@ -1,0 +1,8 @@
+{
+  "name": "Spirecart - The Everything App",
+  "description": "India's unified super-app experience combining fashion, grocery, pharmacy, food delivery, and electronics. Powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
